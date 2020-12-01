@@ -148,7 +148,7 @@ a {
 .hero {
   background-color: #2f303a;
   text-align: center;
-  padding: 200px 250px;
+  padding: 200px 452px;
 }
 
 .hero-title {
@@ -314,6 +314,7 @@ a {
 .footer {
   padding-top: 60px;
   padding-bottom: 60px;
+  padding-left: 215px;
   background-color: #2f303a;
 }
 
